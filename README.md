@@ -53,7 +53,7 @@ pkg install git -y
 pkg install lolcat
 ```
 ```bash
-git clone https://github.com/hackerxphantom/HXP-DUCKY
+git clone https://github.com/mamtamac009/Mamta-X-Coder
 ```
 ```bash
 cd $HOME
@@ -80,7 +80,7 @@ sudo apt-get update && pkg upgrade -y
 sudo apt-get install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/HXP-DUCKY
+git clone https://github.com/mamtamac009/Mamta-X-Coder
 ```
 ```bash
 cd HXP-DUCKY
