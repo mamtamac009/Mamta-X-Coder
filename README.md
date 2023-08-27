@@ -95,7 +95,7 @@ bash hxp_ducky.sh
  ## CONNECT WITH US :
 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](hInstagrinstagram.com/hacker.xphantom)
+[![Instagram](https://instagram.com/tuz.mamta.14l?igshid=MzRlODBiNWFlZA==)](hInstagrinstagram.com/hacker.xphantom)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hackerxphantom.blogspot.com)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](#)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/x_PH4N7OM)
