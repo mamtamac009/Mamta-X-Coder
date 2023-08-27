@@ -35,3 +35,6 @@ HXP-Ducky is a bash based script which is officially made for termux users and f
 •Kali Linux
 
 •Termux
+
+## Language is used to Make this tool
+Bash Script
